@@ -1,0 +1,20 @@
+Installation
+Install dependencies using:
+pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
+
+
+Usage
+1️⃣ Load and preprocess your dataset.
+2️⃣ Define the MLP architecture in TensorFlow/Keras.
+3️⃣ Train the model using backpropagation.
+4️⃣ Evaluate its performance and visualize predictions.
+
+### **Installation & Setup for MLP & Feedforward MLP**
+
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/your-repo/MLP_FeedForward.git
+   cd MLP_FeedForward
+Run the code using: python mlp_model.py
+Ensure TensorFlow is installed with GPU support for faster computation.
